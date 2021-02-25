@@ -27,7 +27,3 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 IS_PHONE := true
 
-# Wave Maintainer name
-PRODUCT_PRODUCT_PROPERTIES += \
-  ro.wave.maintainer=henloboi \
-
