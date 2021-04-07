@@ -5,9 +5,13 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/wave_miatoll.mk
+    $(LOCAL_DIR)/wave_miatoll.mk \
+    $(LOCAL_DIR)/miatoll.mk 
 
 COMMON_LUNCH_CHOICES := \
     wave_miatoll-user \
     wave_miatoll-userdebug \
-    wave_miatoll-eng
+    wave_miatoll-eng \
+    miatoll-user \
+    miatoll-userdebug \
+    miatoll-eng
