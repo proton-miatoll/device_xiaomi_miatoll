@@ -6,9 +6,15 @@
   {
     "repository" : "vendor_xiaomi_miatoll",
     "target_path": "vendor/xiaomi/miatoll"
-  }
+  },
   {
     "repository" : "vendor_xiaomi_sm6250-common",
     "target_path": "vendor/xiaomi/sm6250-common"
+  },
+  {
+    "repository" : "Ramisky/kernel_xiaomi_sm6250",
+    "target_path": "kernel/xiaomi/sm6250",
+    "branch": "fluid-11",
+    "remote": "github"
   }
 ]
